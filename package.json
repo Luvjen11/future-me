@@ -1,0 +1,16 @@
+{
+  "name": "future-me",
+  "version": "0.1.0",
+  "private": true,
+  "author": "Jennifer Okeke <aestheticjenny04@gmail.com>",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "14.2.3",
+    "react": "^18",
+    "react-dom": "^18"
+  }
+}
